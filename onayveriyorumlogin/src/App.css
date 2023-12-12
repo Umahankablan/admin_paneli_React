@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?famili= Roboto&display=swap');
+body{
+    font-family: 'Roboto' ,sans-serif;
+}
+label{
+    font-size : .7rem ;
+}
+input.form-control, input.form-control:fokus{
+    background: #f0f0ff;
+}
+.error{
+    position: absolute;
+    color: red;
+    font-size: 6rem;
+}
